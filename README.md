@@ -7,6 +7,16 @@ After several years in telecom and customer operations, I’m now focused on ana
 
 ## 🚀 Portfolio Projects
 
+### 💬 Customer Support Chatbot  
+**Python · Streamlit · NLP (TF-IDF + Cosine Similarity)**  
+En produksjonsklar FAQ-chatbot som matcher brukerens spørsmål mot en kunnskapsbase og returnerer beste svar basert på tekstlikhet.  
+NLP-pipeline bygget med TF-IDF (ngrams) + cosine similarity, justerbar terskel for svar, og et interaktivt Streamlit-grensesnitt.
+
+🔗 **Repo:** [customer-support-chatbot](https://github.com/Runar-Olsen/customer-support-chatbot)
+
+
+---
+
 ### 🧩 [Customer Segmentation (K-Means Clustering)](https://github.com/Runar-Olsen/customer-segmentation)
 Segmented customers based on age, income, and spending score using K-Means clustering.  
 - Techniques: StandardScaler, Elbow Method, Clustering Visualization  
