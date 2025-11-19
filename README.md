@@ -7,6 +7,15 @@ After several years in telecom and customer operations, I’m now focused on ana
 
 ## 🚀 Portfolio Projects
 
+### 🤖 AI Support API (FastAPI + Mock Embeddings)
+
+En produksjonsklar API-modell for AI-støtte som bruker
+embeddings, RAG-lignende resonnering og mock-modus for gratis testing.
+
+🔗 [Se prosjektet](https://github.com/<brukernavn>/ai-support-api)
+
+---
+
 ### 💬 Customer Support Chatbot  
 **Python · Streamlit · NLP (TF-IDF + Cosine Similarity)**  
 En produksjonsklar FAQ-chatbot som matcher brukerens spørsmål mot en kunnskapsbase og returnerer beste svar basert på tekstlikhet.  
