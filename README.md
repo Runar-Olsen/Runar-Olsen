@@ -12,7 +12,7 @@ After several years in telecom and customer operations, I’m now focused on ana
 En produksjonsklar API-modell for AI-støtte som bruker
 embeddings, RAG-lignende resonnering og mock-modus for gratis testing.
 
-🔗 [Se prosjektet](https://github.com/<brukernavn>/ai-support-api)
+🔗 [Se prosjektet](https://github.com/Runar-Olsen/ai-support-api)
 
 ---
 
