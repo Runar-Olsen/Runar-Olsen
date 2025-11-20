@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Runar Olsen
+# 👋 Hei, jeg heter Runar Olsen
 
-I'm a **data analyst** passionate about extracting insights and building machine learning solutions that connect data to real business impact.  
-After several years in telecom and customer operations, I’m now focused on analytics, automation, and data-driven decision-making using **Python, SQL, and Power BI**.
+Jeg er en dataanalytiker som brenner for å hente ut innsikt og bygge maskinlæringsløsninger som skaper faktisk forretningsverdi.
+Etter flere år innen telecom og kundebehandling fokuserer jeg nå på analyse, automatisering og datadrevet beslutningstaking ved hjelp av **Python, SQL og Power BI.**
 
 ---
 
@@ -103,20 +103,20 @@ Dashboard som analyserer oppdrettsindustrien i Norge med fokus på regioner, vol
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Teknologistack
 
-**Languages & Tools:**  
+**Språk og verktøy:**  
 Python · SQL · Power BI · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · XGBoost  
 Git · VS Code · Jupyter Notebook  
 
-**Data Science Skills:**  
+**Data science-ferdigheter:**  
 Exploratory Data Analysis (EDA) · Feature Engineering · Classification · Regression · Clustering · Model Evaluation · Data Visualization  
 
 ---
 
-## 🎓 Certifications & Learning Progress
+## 🎓 Sertifiseringer og læringsprogresjon
 
-**Completed:**  
+**Fullført:**  
 - Learn Python 3  
 - Analyze Data with SQL  
 - Analyze Data with Microsoft Excel  
@@ -124,7 +124,7 @@ Exploratory Data Analysis (EDA) · Feature Engineering · Classification · Regr
 - Data and Programming Foundations for AI  
 - Data Scientist: Analytics (Codecademy)  
 
-**In Progress:**  
+**Pågående:**  
 - PL-300: Power BI Data Analyst *(Certification Path)*  
 - Data Scientist: Machine Learning Specialist *(81%)*  
 - Build Chatbots with Python *(50%)*  
@@ -132,24 +132,24 @@ Exploratory Data Analysis (EDA) · Feature Engineering · Classification · Regr
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Utforsker nå
 
-- Time Series Forecasting and Model Deployment  
-- AI Agents and LLM-powered Chatbots (RAG / LangChain)  
-- MLOps and production workflows  
-- Advanced Power BI (PL-300 certification prep)
-
----
-
-## 🧭 Career Focus
-
-I’m building a portfolio that bridges **business understanding** and **technical expertise** — showing not just how to model data, but how to turn it into insight and action.  
-
-💬 *Open to collaboration, feedback, and data-focused discussions.*
+- Tidsserieanalyse og modellutrulling
+- AI-agenter og LLM-drevne chatbots (RAG / LangChain)
+- MLOps og produksjonsløp 
+- Avansert Power BI (PL-300-forberedelse)
 
 ---
 
-## 📫 Connect with Me
+## 🧭 Karrierefokus
+
+Jeg bygger en portefølje som kombinerer forretningsforståelse med teknisk kompetanse — med fokus på å vise hvordan data kan omsettes til innsikt og faktiske beslutninger.
+
+💬 Åpen for samarbeid, tilbakemeldinger og faglige diskusjoner innen data.
+
+---
+
+## 📫 Kontakt
 
 [![GitHub](https://img.shields.io/badge/GitHub-Runar--Olsen-black?logo=github)](https://github.com/Runar-Olsen)
 
