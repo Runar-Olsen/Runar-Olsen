@@ -7,55 +7,99 @@ After several years in telecom and customer operations, I’m now focused on ana
 
 ## 🚀 Portfolio Projects
 
-### 🤖 AI Support API (FastAPI + Mock Embeddings)
+### [⚡ Customer Stream Pipeline — Real-Time Event Data Engineering](https://github.com/Runar-Olsen/customer-stream-pipeline)  
+**Tech:** Python • Pandas • Parquet • Bronze/Silver/Gold Architecture  
 
-En produksjonsklar API-modell for AI-støtte som bruker
-embeddings, RAG-lignende resonnering og mock-modus for gratis testing.
+En fullstendig datapipeline som simulerer sanntids eventstrømmer.  
+Prosjektet genererer kontinuerlige kundehendelser (logins, purchases, cancellations), konsumerer dem i et streaming-lignende oppsett og bygger et komplett Lakehouse-lag med Bronze, Silver og Gold.
 
-🔗 [Se prosjektet](https://github.com/Runar-Olsen/ai-support-api)
-
----
-
-### 💬 Customer Support Chatbot  
-**Python · Streamlit · NLP (TF-IDF + Cosine Similarity)**  
-En produksjonsklar FAQ-chatbot som matcher brukerens spørsmål mot en kunnskapsbase og returnerer beste svar basert på tekstlikhet.  
-NLP-pipeline bygget med TF-IDF (ngrams) + cosine similarity, justerbar terskel for svar, og et interaktivt Streamlit-grensesnitt.
-
-🔗 **Repo:** [customer-support-chatbot](https://github.com/Runar-Olsen/customer-support-chatbot)
-
+**Høydepunkter:**  
+- Streaming-simulering med JSON microbatches  
+- Automatisk ingestion til Bronze (Parquet)  
+- Silver: renset og standardisert eventtabell  
+- Gold: ferdige analysetabeller klare for Power BI  
+- Moderne data engineering-arkitektur, lett forklart og implementert  
 
 ---
 
-### 🧩 [Customer Segmentation (K-Means Clustering)](https://github.com/Runar-Olsen/customer-segmentation)
-Segmented customers based on age, income, and spending score using K-Means clustering.  
-- Techniques: StandardScaler, Elbow Method, Clustering Visualization  
-- Tools: Python, Pandas, Scikit-learn, Seaborn  
-📊 *Demonstrates understanding of unsupervised learning and insight storytelling.*
+### [🤖 AI Support API — RAG-Inspired Support Intelligence](https://github.com/Runar-Olsen/ai-support-api)  
+**Tech:** FastAPI • Embeddings • Mock Mode • Retrieval Logic  
+
+En API-basert supportløsning som kombinerer hybrid retrieval, embeddings og RAG-inspirert resonnering.  
+Prosjektet inkluderer full mock-modus som gjør det mulig å teste hele systemet **uten API-kostnader**, perfekt for portefølje og læring.
+
+**Høydepunkter:**  
+- FastAPI-applikasjon med komplett endpoint-struktur  
+- Embeddings (OpenAI eller pseudosyntetiske, kostnadsfrie)  
+- RAG-aktig generering basert på relevante dokumenter  
+- Strukturert responsmodell med metadata og scorer  
+- Ren arkitektur og testbarhet  
 
 ---
 
-### 📞 [Telecom Churn Prediction](https://github.com/Runar-Olsen/telecom-churn-prediction)
-Predicted customer churn for a telecom company using classification models.  
-- Logistic Regression, Random Forest, and XGBoost comparison  
-- Evaluated with ROC-AUC, Precision, Recall, F1  
-- Shows full ML workflow: preprocessing → modeling → evaluation  
-📈 *Highlights supervised learning and business-oriented analysis.*
+### [💬 Customer Support Chatbot — FAQ Retrieval Model](https://github.com/Runar-Olsen/customer-support-chatbot)  
+**Tech:** Python • Streamlit • TF-IDF • Cosine Similarity  
+
+En FAQ-chatbot bygget med NLP-retrieval som matcher brukerens spørsmål mot en kunnskapsbase ved bruk av TF-IDF (ngrams) og cosine similarity.  
+Interaktivt UI i Streamlit gjør det enkelt å teste og justere terskler og antall treff.
+
+**Høydepunkter:**  
+- TF-IDF + cosine similarity for matching  
+- Justerbar terskel og top-k  
+- Streamlit Web UI  
+- Utvidbart til embeddings / RAG  
 
 ---
 
-### 🏠 [House Price Prediction (Regression)](https://github.com/Runar-Olsen/house-price-prediction)
-Built regression models to predict house prices using numerical and categorical features.  
-- Models: Linear Regression, Random Forest, XGBoost  
-- Evaluation: RMSE, MAE, R²  
-💡 *Demonstrates strong understanding of regression modeling and feature pipelines.*
+### [🧩 Customer Segmentation — K-Means Clustering](https://github.com/Runar-Olsen/customer-segmentation)  
+**Tech:** Python • Scikit-Learn • Pandas • Seaborn  
+
+Segmentering av kunder ved bruk av K-Means clustering for å avdekke ulike kundegrupper basert på demografi og atferd.
+
+**Høydepunkter:**  
+- K-Means + StandardScaler  
+- Elbow Method for optimalt antall segmenter  
+- Cluster-visualiseringer  
+- Innsiktsledet analyse  
 
 ---
 
-### 🌊 [Norwegian Aquaculture Analytics Dashboard (Power BI)](https://github.com/Runar-Olsen/powerbi-aquaculture-dashboard)
-Interactive Power BI dashboard showing production volumes, regions, and trends for aquaculture facilities across Norway.  
-- Data cleaning, DAX measures, and geographic visualization  
-- Focused on identifying regional production patterns and industry insights  
-🐟 *Showcases data visualization, storytelling, and domain relevance.*
+### [📞 Telecom Churn Prediction — Supervised ML](https://github.com/Runar-Olsen/telecom-churn-prediction)  
+**Tech:** Scikit-Learn • XGBoost • Pandas  
+
+Et komplett churn-prediksjonsprosjekt som sammenligner modeller og evalueringsmetoder for å identifisere kunder med høy risiko for avgang.
+
+**Høydepunkter:**  
+- Logistic Regression, Random Forest & XGBoost  
+- ROC-AUC, Precision, Recall, F1  
+- Full preprocessing + modellering pipeline  
+- Analyse av driverne bak churn  
+
+---
+
+### [🏠 House Price Prediction — Regression Models](https://github.com/Runar-Olsen/house-price-prediction)  
+**Tech:** Python • Scikit-Learn • XGBoost  
+
+Regresjonsprosjekt for å forutsi boligpriser basert på et rikt featuresett av numeriske og kategoriske variabler.
+
+**Høydepunkter:**  
+- Lineær regresjon, Random Forest, XGBoost  
+- RMSE, MAE, R² evaluering  
+- Feature engineering  
+- Forklarbarhet i modellene  
+
+---
+
+### [🌊 Norwegian Aquaculture Analytics Dashboard (Power BI)](https://github.com/Runar-Olsen/powerbi-aquaculture-dashboard)  
+**Tech:** Power BI • DAX • Data Cleaning  
+
+Dashboard som analyserer oppdrettsindustrien i Norge med fokus på regioner, volum og utvikling over tid.
+
+**Høydepunkter:**  
+- Rensing og modellering av datasett  
+- DAX-målinger og KPI-er  
+- Geografiske visualiseringer  
+- Sterk for storytelling og forretningsinnsikt  
 
 ---
 
